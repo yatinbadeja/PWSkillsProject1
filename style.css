@@ -1,0 +1,21 @@
+*{
+    font-family:'Unbounded', cursive;;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+button{
+    color: white;
+    background-color: red;
+    width:8vw;
+    border:1px solid red;
+}
+button:hover{
+    color:black;
+    background-color: white;
+}
+body{
+    background-image: url("./Untitled.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
